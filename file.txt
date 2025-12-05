@@ -1,0 +1,8 @@
+This is our file Page!
+INFO:login successfully
+ERROR: failed to connect the database
+WARNING:your battery low
+INFO:scheduled task started
+ERROR:Null point exception occurred
+INFO:Application shutdown
+WARNING: Disk space low
