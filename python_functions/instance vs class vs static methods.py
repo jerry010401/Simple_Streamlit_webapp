@@ -1,5 +1,4 @@
 # INSTANCE Vs CLASS Vs STATIC METHODS:-
-from class_objects import Employ
 
 
 class myclass:

@@ -33,7 +33,7 @@ try:
         cursor.execute(select_query)
         result = cursor.fetchall()
 
-        with open("employees.txt","w") as file:
+        with open("python_file_handling/employees.txt", "w") as file:
             for row in result:
                 file.write(f"{row}\n")
                 print(row)
